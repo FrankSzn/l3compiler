@@ -1,0 +1,4 @@
+compile
+run ../examples/hello.l3
+compile
+run ../examples/hello.l3
